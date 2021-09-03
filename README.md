@@ -4,5 +4,5 @@
 - 01 Convertidor
 - 02 Calcula Grado
 - 04 Tienda Sillas
-- 05 Binario - Decimal
+- 05 Binario - Decimal (*Puntos extra)
 
